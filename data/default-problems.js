@@ -1,7 +1,7 @@
-/ ========================================
+// ========================================
 // DONNÉES PAR DÉFAUT
 // ========================================
-const DEFAULT_PROBLEMS = [
+window.DEFAULT_PROBLEMS = [
     {
         level: 'CP',
         period: 1,
@@ -578,9 +578,6 @@ const DEFAULT_PROBLEMS = [
         ]
     }
 ];
-
-// Variable qui contiendra les problèmes sauvegardés
-window.SAVED_PROBLEMS = null;
 
 // Variable qui contiendra les problèmes sauvegardés
 window.SAVED_PROBLEMS = null;
