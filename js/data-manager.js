@@ -35,7 +35,7 @@ const DataManager = {
         
         // Priorité 3 : données par défaut
         console.log('📂 Chargement des données par défaut');
-        return DEFAULT_PROBLEMS;
+        return window.DEFAULT_PROBLEMS;
     },
 
     /**
