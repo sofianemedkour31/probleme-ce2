@@ -1,7 +1,7 @@
 // ========================================
 // DONNÉES PAR DÉFAUT
 // ========================================
-window.DEFAULT_PROBLEMS = [
+const DEFAULT_PROBLEMS = [
     {
         level: 'CP',
         period: 1,
